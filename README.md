@@ -64,6 +64,8 @@ show grants for 'report_user'@'localhost';
 MySQL Command Line screenshot
 ![alt text](image-1.png)
 
+![alt text](image-2.png)
+
 ## Оюутны мэдээлэл
 * Нэр: О. Содончимэг
 * Код: B232270067
