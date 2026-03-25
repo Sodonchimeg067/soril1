@@ -59,6 +59,10 @@ grant select on food_db.* to 'report_user'@'localhost';
 show grants for 'admin_user'@'localhost';
 show grants for 'report_user'@'localhost';
 
+## 6-р хэсэг: Backup & Restore
+
+MySQL Command Line screenshot
+![alt text](image-1.png)
 
 ## Оюутны мэдээлэл
 * Нэр: О. Содончимэг
