@@ -25,6 +25,7 @@
 * Query -үүд ажиллана
 
 ## Файлын бүтэц
+
 ![alt text](image.png)
 
 mysqlScript.sql файл нь дараах хэсгүүдээс бүрдэнэ:
@@ -58,7 +59,6 @@ grant select on food_db.* to 'report_user'@'localhost';
 show grants for 'admin_user'@'localhost';
 show grants for 'report_user'@'localhost';
 
-## 6-р хэсэг
 
 ## Оюутны мэдээлэл
 * Нэр: О. Содончимэг
