@@ -71,4 +71,3 @@ food_db_backup.sql
 * Нэр: О. Содончимэг
 * Код: B232270067
 
-Respository link: https://github.com/Sodonchimeg067/soril1
