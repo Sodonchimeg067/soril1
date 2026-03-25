@@ -64,6 +64,7 @@ show grants for 'report_user'@'localhost';
 MySQL Command Line screenshot
 ![alt text](image-1.png)
 
+food_db_backup.sql
 ![alt text](image-2.png)
 
 ## Оюутны мэдээлэл
